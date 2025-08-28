@@ -1,4 +1,4 @@
-##📂 Structure
+📂 ##Structure
 	•	tests/ — test cases, checklists
 	•	bug_reports/ — bug report templates and defect reports
 	•	sql_queries/ — SQL queries
