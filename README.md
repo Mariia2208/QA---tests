@@ -1,4 +1,8 @@
-📂 ##Structure
+Repository for QA Training Practice
+
+This repository will store test cases, bug reports, SQL queries, and screenshots.
+
+📂Structure
 	•	tests/ — test cases, checklists
 	•	bug_reports/ — bug report templates and defect reports
 	•	sql_queries/ — SQL queries
